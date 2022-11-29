@@ -1,0 +1,8 @@
+.footer{
+    background-image: url("../../fondo2.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+    background-size: 35%;
+    height: 150px;
+    margin-top: 50px;
+}
